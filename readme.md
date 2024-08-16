@@ -1,4 +1,4 @@
-# DemoApplication
+# Customize banner in Spring Boot DemoApplication DemoApplication
 
 ## Overview
 This project, **DemoApplication**, is a simple Spring Boot application that includes a custom banner displayed during application startup. The custom banner welcomes users to the application and is powered by Spring Boot version 3.3.2.
